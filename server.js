@@ -1,3 +1,9 @@
+/****************
+I declare that this assignment is my own work in accordance to the Seneca Academic Policy. 
+No part of this assignment has been copied electronically or manually from any source. 
+ 
+ Jermaine abuwa 102848173 5/31/2019
+***********************/
 var express = require('express');
 var app = express();
 var departments = require('./data/departments.json');
